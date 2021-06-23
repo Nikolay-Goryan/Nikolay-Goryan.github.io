@@ -1,14 +1,14 @@
 pubs = [{
-        "title": "Client-Specific Equivalence Checking",
-        "conference": "ASE '18",
-        "authors": "F. Mora, Y. Li, J. Rubin, and M. Chechik",
+        "title": "Institute for System Programming, Moscow",
+        "conference": "Jul 2018 - Aug 2020",
+        "authors": "Static code analysis based detectors to find bugs in software based on Kotlin programming language.",
         "link": "https://dl.acm.org/citation.cfm?doid=3238147.3238178",
         "tags": "software engineering"
     },
     {
-        "title": "StringFuzz: A Fuzzer for String Solvers",
-        "conference": "CAV '18",
-        "authors": "D. Blotsky, F. Mora, M. Berzish, Y. Zheng, I. Kabir, and V. Ganesh",
+        "title": "Kullmann PR (online)",
+        "conference": "Jan 2021 - March 2021",
+        "authors": "Social media optimisation and online marketing.",
         "link": "https://link.springer.com/chapter/10.1007/978-3-319-96142-2_6",
         "tags": "applied logic"
     },
